@@ -1,0 +1,3 @@
+[submodule "third_party/gitskills"]
+	path = third_party/gitskills
+	url = https://github.com/MakeStream/gitskills.git
