@@ -6,3 +6,5 @@ Git rebase test.
 Git I'm Ok.
 Git insert too.
 Git insert.
+Git insert one.
+
